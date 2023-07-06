@@ -1,1 +1,2 @@
-# dummy 3
+# dummy
+This is a dummy repository.
